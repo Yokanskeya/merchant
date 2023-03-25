@@ -127,7 +127,6 @@ useHead({
   ],
   link: [
     {rel: 'icon', type: 'image/svg', href: '/icon-notext.svg'},
-    {rel: 'preconnect', href: 'https://api.marchantweb.com'},
     {
       rel: 'stylesheet',
       href: 'https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap'
