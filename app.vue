@@ -50,11 +50,6 @@ useHead({
       content: 'index, follow'
     },
     {
-      hid: 'og:url',
-      name: 'og:url',
-      content: 'https://marchantweb.com'
-    },
-    {
       hid: 'og:title',
       name: 'og:title',
       content: 'Adam Khairusydan | Creative Front End Engineer'
@@ -67,7 +62,7 @@ useHead({
     {
       hid: 'og:image',
       name: 'og:image',
-      content: 'https://marchantweb.com/cover.jpg'
+      content: 'https://cdn.discordapp.com/attachments/1028699199304372264/1089217030244282438/cover.jpg'
     },
     {
       hid: 'og:image:alt',
