@@ -57,7 +57,7 @@ useHead({
     {
       hid: 'og:title',
       name: 'og:title',
-      content: 'Adam Le Marchant | Creative Front End Engineer'
+      content: 'Adam Khairusydan | Creative Front End Engineer'
     },
     {
       hid: 'og:type',
@@ -72,7 +72,7 @@ useHead({
     {
       hid: 'og:image:alt',
       name: 'og:image:alt',
-      content: 'Adam Le Marchant | Creative Front End Engineer'
+      content: 'Adam Khairusydan | Creative Front End Engineer'
     },
     {
       hid: 'og:description',
@@ -82,7 +82,7 @@ useHead({
     {
       hid: 'og:site_name',
       name: 'og:site_name',
-      content: 'Adam Le Marchant | Creative Front End Engineer'
+      content: 'Adam Khairusydan | Creative Front End Engineer'
     },
     {
       hid: 'og:locale',
@@ -97,22 +97,22 @@ useHead({
     {
       hid: 'twitter:site',
       name: 'twitter:site',
-      content: '@marchantweb'
+      content: '@Yokanskeya'
     },
     {
       hid: 'twitter:creator',
       name: 'twitter:creator',
-      content: '@marchantweb'
+      content: '@Yokanskeya'
     },
     {
       hid: 'twitter:url',
       name: 'twitter:url',
-      content: 'https://marchantweb.com'
+      content: 'https://Yokans.dev'
     },
     {
       hid: 'twitter:title',
       name: 'twitter:title',
-      content: 'Adam Le Marchant | Creative Front End Engineer'
+      content: 'Adam Khairusydan | Creative Front End Engineer'
     },
     {
       hid: 'twitter:description',
@@ -120,14 +120,9 @@ useHead({
       content: 'Hey I’m Adam, a creative front end engineer based in Orlando, Florida.'
     },
     {
-      hid: 'twitter:image',
-      name: 'twitter:image',
-      content: 'https://marchantweb.com/cover.jpg'
-    },
-    {
       hid: 'twitter:image:alt',
       name: 'twitter:image:alt',
-      content: 'Adam Le Marchant | Creative Front End Engineer'
+      content: 'Adam Khairusydan | Creative Front End Engineer'
     }
   ],
   link: [
